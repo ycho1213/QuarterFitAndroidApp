@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Young\AndroidStudioProjects\source1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51de4645caea3ceb4aa2e3c1cd46265738effe19">
+        <dex dex="C:\Users\Young\AndroidStudioProjects\source1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_65b8656d6de46e637dd89c4cdeeb59f8ea5f59c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Young\AndroidStudioProjects\source1\app\libs\fit_16.00.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02febf42ad4357bc84b39f5700af95fc64389e2b">
+        <dex dex="C:\Users\Young\AndroidStudioProjects\source1\app\build\intermediates\transforms\dex\debug\folders\1000\2\fit_16.00_6d011881aed1d156d31bb9495707d634d9081394\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Young\AndroidStudioProjects\source1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02881bbdd27234126e681e624c4ebe0f72f94eb7">
+        <dex dex="C:\Users\Young\AndroidStudioProjects\source1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ef95af5235fbd4e2a639074db2dee65e9d8cda3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Young\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Young\AndroidStudioProjects\source1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_d092a593c0fa7e3d5718beb36eedc7722c09adfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Young\AndroidStudioProjects\source1\app\libs\antpluginlib_3-6-0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcc5fd7af574e447104a5989cf78849209f1ba05">
+        <dex dex="C:\Users\Young\AndroidStudioProjects\source1\app\build\intermediates\transforms\dex\debug\folders\1000\2\antpluginlib_3-6-0_620d6522449033e2b173f4bf08391264425b0893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Young\AndroidStudioProjects\source1\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="C:\Users\Young\AndroidStudioProjects\source1\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_b2a54b0a2ef622d776e029ac6da8d2a0340bc162\classes.dex" />
+    </item>
+
+</items>
